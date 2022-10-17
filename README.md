@@ -5,11 +5,17 @@ This exercise demonstrates your competency in the skills learned in this module.
 These are skills you practiced in this and previous modules and will now demonstrate:
 
 Writing and using structures
+
 Writing and using classes
+
 Writing and using functions
+
 Passing parameters to functions
+
 Returning values from functions
+
 Using loops
+
 Reading input and writing output
  
 
@@ -31,7 +37,7 @@ You may put the structure, class, and function in the same file with the main fu
 
 Here is an example of an execution of this program:
 
-M4 Competency good   
+![M4 Competency good](https://github.com/bell-kevin/mod4compGameEvenOdd/blob/main/mod4compGameEvenOdd/mod4.PNG)
 
 Run the project and test the 4 possible results -- predict even and dice total is even, predict even and dice total is odd, predict odd and dice total is odd, predict odd and dice total is even. You will see all 4 of those results in the screenshot above. Take screenshots of your program running to show those 4 results (it may take more than 4 rolls, that's ok). Also get a screenshot of the messages when the player chooses to quit.
 
